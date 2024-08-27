@@ -1,0 +1,4 @@
+warp://auto?ifp=40-80&ifps=40-100&ifpd=2-6&ifpm=m4#🇮🇷&&detour=warp://[2606:4700:d0::1211:2612:cbca:2366]:939?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#🇩🇪
+warp://auto?ifp=40-80&ifps=40-100&ifpd=2-6&ifpm=m4#🇮🇷&&detour=warp://[2606:4700:d1::1f0f:d828:b911:7ae8]:942?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#
+warp://p1@:[2606:4700:d0::c799:d668:2409:8895]:3476?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#🇮🇷m4&&detour=warp://p2@[2606:4700:d0::2c92:c7af:4607:bf02]:939#🇩🇪@amirparsaxs
+warp://auto?ifp=40-80&ifps=40-100&ifpd=2-6&ifpm=m4#IR&&detour=warp://auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#DE
